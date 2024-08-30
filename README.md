@@ -1,5 +1,6 @@
-## Hi there👋 I'm Majharul Islam Ruhit
+   Hi 👋 I'm Majharul Islam Ruhit
 
+![Ruhit27's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruhit27&theme=vue-dark&hide_border=true)
 <!--
 **Ruhit27/Ruhit27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
