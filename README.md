@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Majharul Islam Ruhit</h1>
-<h3 align="center">"A dedicated A developer committed to turning ideas into reality through code."</h3>
+<h3 align="center">" A developer committed to turning ideas into reality through code."</h3>
 
 - 🔭 I’m currently working on **React,NextJs,ExpressJs,Firebase,MongoDB**
 
