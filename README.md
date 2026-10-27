@@ -1,28 +1,43 @@
-<h1 align="center">Hi 👋, I'm Majharul Islam Ruhit</h1>
-<h3 align="center">" A developer committed to turning ideas into reality through code."</h3>
+<a href="https://islamruhit.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=39D353&vCenter=true&width=640&lines=%24+whoami;Majharul+Islam+Ruhit+%E2%80%94+full-stack+%26+AI+developer;%24+building+web+apps+and+AI+agents+for+clients" alt="$ whoami — Majharul Islam Ruhit, full-stack & AI developer" />
+</a>
 
-- 🔭 I’m currently working on **React,NextJs,ExpressJs,Firebase,MongoDB**
+```console
+ruhit@dev:~$ whoami
+Majharul Islam Ruhit — full-stack developer · Bangladesh · remote
 
-- 🌱 I’m currently learning **SQL,Linux**
+ruhit@dev:~$ cat services.txt
+→ Full-stack web apps       Next.js · React · Node/Express · MongoDB · Firebase
+→ AI agents & automation    voice agents · web scraping · agentic workflows · LLM features
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ruhit27](https://github.com/Ruhit27)
+ruhit@dev:~$ ./hire-me --status
+✔ open to freelance projects — scroll down to ~/contact
+```
 
-- 💬 Ask me about **React,NextJs,ExpressJs,Firebase,MongoDB**
+### `~/projects`
 
-- 📫 How to reach me **majharulislamruhit727@gmail.com**
+| Project | What it does | Built with | |
+|---|---|---|---|
+| **[Top Doctors Khulna](https://tdk-mauve.vercel.app)** | Bilingual (English / বাংলা) directory of 225 specialist doctors across 35 specialties, with call and WhatsApp booking | Next.js 16 · static | [code](https://github.com/Ruhit27/tdk) |
+| **[Push Bid](https://pushbid.vercel.app)** | Public product leaderboard where rank is what you spend: credits, Google sign-in and a full admin panel | Next.js · MongoDB · Auth.js | [code](https://github.com/Ruhit27/pushbid) |
+| **[ProfectusX](https://profectus-x.vercel.app)** | B2B agency site rebuilt from Framer to Next.js, visually matched, same URLs, MDX case studies, lead form via Resend | Next.js · TypeScript · Tailwind v4 · Motion · Playwright | [code](https://github.com/Ruhit27/ProfectusX) |
+| **[allglossary](https://allglossary.vercel.app)** | Glossaries in plain English, each one explored as an interactive graph of connected terms | Next.js · TypeScript | [code](https://github.com/Ruhit27/allglossary) |
+| **[Aethon Lab](https://aethonslab.vercel.app)** | Landing page for a strategy-first digital studio | Next.js · Tailwind · shadcn/ui | [code](https://github.com/Ruhit27/aethonslab) |
 
-- ⚡ Fun fact **I can play good chess**
+### `~/stack`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/majharul islam ruhit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="majharul islam ruhit" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/majharul islam ruhit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="majharul islam ruhit" height="30" width="40" /></a>
-<a href="https://discord.gg/Ruhit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ruhit" height="30" width="40" /></a>
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,python,git,linux&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, MongoDB, Firebase, Tailwind, Python, Git, Linux" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### `~/fun`
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhit27&show_icons=true&locale=en&layout=compact" alt="ruhit27" /></p>
+```console
+ruhit@dev:~$ cat fun.txt
+♟  I play good chess — challenge me
+📚 currently learning: SQL, Linux
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruhit27&" alt="ruhit27" /></p>
+### `~/contact`
+
+<a href="mailto:majharulislamruhit727@gmail.com"><img src="https://img.shields.io/badge/email-majharulislamruhit727%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=39D353&labelColor=0d1117" alt="Email" /></a>
+<a href="https://islamruhit.vercel.app"><img src="https://img.shields.io/badge/portfolio-islamruhit.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=39D353&labelColor=0d1117" alt="Portfolio" /></a>
+<a href="https://wa.me/8801743001963"><img src="https://img.shields.io/badge/whatsapp-chat-0d1117?style=for-the-badge&logo=whatsapp&logoColor=39D353&labelColor=0d1117" alt="WhatsApp" /></a>
